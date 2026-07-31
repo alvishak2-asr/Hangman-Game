@@ -1,0 +1,19 @@
+programming|What is most fun engineering work you can do possibly|Writing instructions for a computer|Uses languages like C, Java, and Python|A core skill in Computer Science
+
+hangman|What is the name of the game you are currently playing|A word guessing game|Wrong guesses draw parts of a person|Usually played with letters and underscores
+
+computer|What is the most used device used for official work|An electronic machine|Used for coding, gaming, and browsing|Has hardware and software
+
+gossip|What is common work for people to do|Talking about other people|Often spreads rumors|Common in casual conversations
+
+algorithm|Important coding related course in CSE|Step-by-step problem-solving method|Very important in programming|Used in searching and sorting
+
+developer|Person who builds software|A person who creates software|Writes and tests code|Can build websites or apps
+
+galaxy|Something that holds millions of planets|A huge collection of stars|The Milky Way is one|Exists in outer space
+
+beekeeper|Person who collects honey|A person who works with bees|Collects honey|Uses protective clothing around hives
+
+bikini|Interesting beach clothing|A type of swimsuit|Usually worn at beaches|Made of two separate pieces
+
+dwarves|Mythical race who forges strong weapons|Short mythical characters|Famous in fantasy stories|Appears in 'Snow White and the Seven Dwarves'
